@@ -1,0 +1,6 @@
+#operations on comparision operatos
+a=int(input("enter value"))
+b=int(input("enter value"))
+#performing comparison operations
+print("\n",a<b,"\n",a>b,"\n",a<=b,"\n",a>=b,"\n",a==b,"\n",a!=b)
+
